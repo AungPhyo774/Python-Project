@@ -1,0 +1,6 @@
+ py -m pip install ultralytics
+ 
+ ultralytics
+ opencv-python
+ numpy
+ pandas
